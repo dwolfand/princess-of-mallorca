@@ -1,4 +1,4 @@
-# princess-of-mallorca
+# Princess of Mallorca
 
 ## Available Scripts
 
