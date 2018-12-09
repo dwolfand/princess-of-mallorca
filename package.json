@@ -1,6 +1,7 @@
 {
   "name": "princess-of-mallorca",
   "version": "0.1.0",
+  "homepage": "https://princessofmallorca.com",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
